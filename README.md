@@ -9,6 +9,8 @@
 
 🧑‍💻 Linguagem python Básica e estudando linguagem Java
 
+📚 English - Básico
+
 ..... Sempre em busca de novos aprendizados e com muita dedicação .....
 
 
