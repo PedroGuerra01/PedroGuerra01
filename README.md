@@ -4,7 +4,8 @@
 
 
 📚 Sou Aluno da Universidade Nove de Julho - UNINOVE localizada em São Paulo - Brasil
-Curso:  Sistema  da  Informação
+
+Curso: Sistema da  informação - Bacharelado
 
 👨‍💻  Atuo como analista fiscal atualmente
 
