@@ -7,7 +7,7 @@
 
 👨‍💻  Atuo como analista fiscal atualmente
 
-🧑‍💻 Linguagem python Básica e estudando linguagem Java
+🧑‍💻 Linguagem python Básica
 
 📚 English - Básico
 
