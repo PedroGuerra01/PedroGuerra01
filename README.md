@@ -7,7 +7,7 @@
 
 Curso: Sistema da  informação - Bacharelado
 
-👨‍💻  Atuo como analista fiscal atualmente
+👨‍💻  Atuando como analista fiscal - Empresa Brandworks
 
 🧑‍💻 Linguagem python Básica
 
