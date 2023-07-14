@@ -12,12 +12,15 @@
 
 <div style="display: inline_block"><br/>
 
-  <img align= "center" alt="HTML" hight="30" width="30" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align= "center" alt="Python" hight="30" width="30" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img align= "center" alt="JAVA" hight="30" width="30" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img align= "center" alt="Excel" hight="30" width="30" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img align= "center" alt="HTML" hight="144" width="30" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img align= "center" alt="Python" hight="144" width="30" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img align= "center" alt="JAVA" hight="144" width="30" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img align= "center" alt="Excel" hight="144" width="30" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   
 </div><br/>
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-guerra-19937a1a2)
+
 
 ###  Estudos
 📚     Cursando: Sistema de informação - Bacharelado
