@@ -25,8 +25,9 @@
 ###  Área atual 
 👨‍💻 Atuando como analista fiscal
 
-###  Linguagens
+###  linguagens
 📚 English - Básico
+
 📚 Português - Fluente/nativo
 
 ..... Sempre em busca de novos aprendizados e com muita dedicação .....
