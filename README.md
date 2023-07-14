@@ -1,7 +1,7 @@
 ### Oii! Eu sou o Pedro Henrique Guerra 
 
 <div>
-<img height= "180cm" src="https://github-readme-stats.vercel.app/api?username=PedroGuerra01&show_icons=true&theme=dracula"/>
+<img height= "180cm" src="https://github-readme-stats.vercel.app/api?username=PedroGuerra01&show_icons=true&theme=radical"/>
   </div>
 
 ### Tecnologias que uso no meu dia
