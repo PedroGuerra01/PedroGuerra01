@@ -15,7 +15,7 @@
   <img align= "center" alt="HTML5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img align= "center" alt="HTML5" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   
-</div>
+</div><br/>
 
 ### Estudos
 📚 Cursando: Sistema da  informação - Bacharelado
