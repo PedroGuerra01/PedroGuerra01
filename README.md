@@ -20,7 +20,7 @@
 
 
 ###  Estudos
-📚     Cursando: Sistema de informação - Bacharelado
+📚     Cursando: Sistema de informação
 
 📚     Formado no ensino Médio
 
