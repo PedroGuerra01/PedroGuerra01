@@ -19,6 +19,7 @@
 
 ### Estudos
 📚 Cursando: Sistema da  informação - Bacharelado
+📚 Formado no ensino Médio
 
 ### Área atual 
 👨‍💻 Atuando como analista fiscal
