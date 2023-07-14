@@ -18,12 +18,12 @@
 </div><br/>
 
 ###  Estudos
-📚     Cursando: Sistema da  informação - Bacharelado
+📚     Cursando: Sistema de informação - Bacharelado
 
 📚     Formado no ensino Médio
 
 ###  Área atual 
-👨‍💻     Atuando como analista fiscal
+👨‍💻     Analista fiscal
 
 ###  linguagens
 📚     English - Básico
