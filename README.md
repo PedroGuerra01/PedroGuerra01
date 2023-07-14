@@ -5,7 +5,7 @@
 
 📚  Cursando: Sistema da  informação - Bacharelado
 
-👨‍💻  Atuando como analista fiscal - Empresa Brandworks
+👨‍💻  Atuando como analista fiscal
 
 🧑‍💻 Python Básico
 
