@@ -5,7 +5,7 @@
 
 <div><br/>
 <img height= "180cm" src="https://github-readme-stats.vercel.app/api?username=PedroGuerra01&show_icons=true&theme=dracula"/>
-<img height= "180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroGuerra01a&size_weight=0.5&count_weight=0.5"/>
+<img height= "180cm" src="https://github-readme-stats.vercel.app/api?username=PedroGuerra01&show_icons=true&bg_color=00000000"/>
   </div><br/>
 
 ### Tecnologias que uso no meu dia
