@@ -9,7 +9,11 @@ Curso: Sistema da  informação - Bacharelado
 
 👨‍💻  Atuando como analista fiscal - Empresa Brandworks
 
-🧑‍💻 Linguagem python Básica
+🧑‍💻 Python Básico
+
+🧑‍💻 Java Básico
+
+🧑‍💻 HTML Básico
 
 📚 English - Básico
 
