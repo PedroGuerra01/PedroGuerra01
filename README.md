@@ -1,4 +1,4 @@
-### Oii! Eu sou o Pedro Henrique Guerra 
+### Olá! Sou Pedro Henrique Guerra 
 
 <div>
 <img height= "190cm" src="https://github-readme-stats.vercel.app/api?username=PedroGuerra01&show_icons=true&theme=tokyonight"/>
