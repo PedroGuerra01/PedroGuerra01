@@ -17,14 +17,15 @@
   
 </div><br/>
 
-### Estudos
+###  Estudos
 📚 Cursando: Sistema da  informação - Bacharelado
+
 📚 Formado no ensino Médio
 
-### Área atual 
+###  Área atual 
 👨‍💻 Atuando como analista fiscal
 
-### Linguagens
+###  Linguagens
 📚 English - Básico
 📚 Português - Fluente/nativo
 
