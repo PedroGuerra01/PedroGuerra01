@@ -10,13 +10,13 @@
   <img align= "center" alt="JAVA" hight="63" width="63" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img align= "center" alt="Excel" hight="128" width="128" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
    <img align= "center" alt="Excel" hight="69" width="69" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
-  
+  <img align= "center" alt="Excel" hight="50" width="50" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </div><br/>
 
 ### Redes
 <div>
 <a href="https://www.linkedin.com/in/pedro-henrique-guerra-19937a1a2/" target="_bank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"target="_bank"></a>
-  <a href="https://lnkd.in/eZyg9zR3" target="_bank"><img src="https://img.shields.io/badge/https://lnkd.in/eZyg9zR3"target="_bank"></a>
+  <a href="https://lnkd.in/eZyg9zR3" target="_bank"><img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"target="_bank"></a>
 </div>
 
 ###  Estudos
