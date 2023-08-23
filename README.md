@@ -20,7 +20,7 @@
 </div>
 
 ###  Estudos
-📚     Cursando: Sistema de informação
+📚     Cursando: Sistema de informação 2/8
 
 📚     Formado no ensino Médio
 
