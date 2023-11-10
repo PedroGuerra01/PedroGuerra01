@@ -25,7 +25,8 @@
 📚     Formado no ensino Médio
 
 ###  Área atual 
-👨‍💻     Analista fiscal
+👨‍💻     Auxiliar de contabilidade
+
 
 ###  linguagens
 📚     English - Básico
