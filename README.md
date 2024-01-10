@@ -10,7 +10,6 @@
   <img align= "center" alt="JAVA" hight="63" width="63" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img align= "center" alt="Excel" hight="128" width="128" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
    <img align= "center" alt="Excel" hight="69" width="69" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
-  <img align= "center" alt="Excel" hight="50" width="50" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </div><br/>
 
 ### Redes
