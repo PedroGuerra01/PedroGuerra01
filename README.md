@@ -23,11 +23,11 @@
 📚     Formado no ensino Médio
 
 ###  Área atual 
-👨‍💻     Auxiliar de contabilidade
+👨‍💻     Auxiliar fiscal
 
 
 ###  linguagens
-📚     English - Básico
+📚     Inglês - Básico
 
 📚     Português - Fluente/nativo
 
