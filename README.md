@@ -28,7 +28,7 @@ Sou **estudante de Sistemas de Informação** com paixão por **resolução de p
 
 ### 🌐 Conecte-se Comigo  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-PedroGuerra-blue?logo=linkedin)](https://www.linkedin.com/in/pedro-henrique-guerra-19937a1a2/)  
-[![Email](https://img.shields.io/badge/Email-Contato%20Rápido-red?logo=gmail)](p.guerra2910@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-Contato%20Rápido-red?logo=gmail)](mailto:p.guerra2910@gmail.com)  
 
 ---
 
