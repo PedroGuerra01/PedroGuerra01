@@ -1,7 +1,7 @@
 
 # Olá! Eu sou o Pedro Henrique Guerra ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-https://pedroguerra01.github.io/Curriculo/
+[curriculo pedro H.pdf](https://github.com/user-attachments/files/17922486/curriculo.pedro.H.pdf)
 
  ### 🚀 Sobre Mim  
 Sou **estudante de Sistemas de Informação** com paixão por **resolução de problemas** e **inovação tecnológica**. Tenho experiência em automação de processos, desenvolvimento de soluções para otimização de tarefas e busco constantemente aprender e crescer no mundo da tecnologia.
