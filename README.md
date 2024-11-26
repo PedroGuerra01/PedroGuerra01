@@ -1,6 +1,6 @@
 
   </div>
-      <p><img align="right" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/><br>  </p>
+      <p>href="https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil">via GIPHY</a></p>
 
 <div>
 <img height= "190cm" src="https://github-readme-stats.vercel.app/api?username=PedroGuerra01&show_icons=true&theme=tokyonight"/>
