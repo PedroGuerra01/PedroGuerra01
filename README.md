@@ -44,13 +44,13 @@ Sou **estudante de Sistemas de Informação** com paixão por **resolução de p
 ---
 
 ### 🚀 Projetos em Destaque  
-1. [**Automatização de Processos**](https://github.com/PedroGuerra01/Automatizacao-De-Processos)  
+1. [**Automatização de Processos**]  
    Scripts que revolucionaram o fluxo de envio de DCTF WEB.  
 
-2. [**Gerenciamento de Certificados**](https://github.com/PedroGuerra01/Gerenciamento-Certificados)  
+2. [**Gerenciamento de Certificados**]
    Planilhas e scripts para monitorar procurações e certificados digitais.  
 
-3. [**Faturamento Otimizado**](https://github.com/PedroGuerra01/Faturamento-Otimizado)  
+3. [**Faturamento Otimizado**]  
    Reduzi prazos em processos contábeis e aumentei eficiência.
 
 ---
