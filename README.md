@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <h2> Born to build widgets, forced to learn architecture </h2>
+  <h2> Pedro Henrique Guerra  </h2>
 </div>
 <div style="display: inline_block">
 </div>
