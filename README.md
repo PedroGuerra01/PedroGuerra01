@@ -1,5 +1,7 @@
 Olá, bem vindo ao meu perfil ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
+==============================================================================================================================
+
   </div>
       <p><a href="https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil"></a></p>
 
