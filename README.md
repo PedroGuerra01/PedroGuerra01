@@ -5,7 +5,13 @@
 <div>
 <img height= "190cm" src="https://github-readme-stats.vercel.app/api?username=PedroGuerra01&show_icons=true&theme=tokyonight"/>
   </div>
-<div style="display: inline_block"><br/>
+
+<div align="center">
+
+ <div>
+   <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=lucyanovidio&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=66cc00&icon_color=66cc00&text_color=c9d1d9&bg_color=0d1117"/>
+   <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucyanovidio&layout=compact&langs_count=7&hide_border=true&title_color=fff&icon_color=66cc00&text_color=fff&bg_color=0d1117"/>
+ </div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
