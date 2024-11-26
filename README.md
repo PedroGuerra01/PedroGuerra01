@@ -53,7 +53,6 @@ Sou **estudante de Sistemas de Informação** com paixão por **resolução de p
 3. [**Faturamento Otimizado**](https://github.com/PedroGuerra01/Faturamento-Otimizado)  
    Reduzi prazos em processos contábeis e aumentei eficiência.
 
-   ![snake gif](https://github.com/PedroGuerra01/PedroGuerra01/blob/output/github-contribution-grid-snake.svg)
 ---
 
 > 🌟 “Sempre aprendendo, sempre inovando. Meu próximo desafio pode estar com você!”  
