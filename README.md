@@ -1,6 +1,8 @@
 
 # Olá! Eu sou o Pedro Henrique Guerra ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
+![Programador digitalizando](https://media.giphy.com/media/abc123xyz/giphy.gif)
+
  ### 🚀 Sobre Mim  
 Sou **estudante de Sistemas de Informação** com paixão por **resolução de problemas** e **inovação tecnológica**. Tenho experiência em automação de processos, desenvolvimento de soluções para otimização de tarefas e busco constantemente aprender e crescer no mundo da tecnologia.
 
@@ -10,6 +12,11 @@ Sou **estudante de Sistemas de Informação** com paixão por **resolução de p
 - Experiência prática com bancos de dados e análise de informações  
 
 🎯 **Objetivo**: Conquistar meu lugar no mercado de tecnologia, com foco em **dados**, **inovação** e **impacto real**.
+
+### 🛠️ **Linguagens e Tecnologias**
+- 🌐 **Front-end**: HTML, CSS, JavaScript  
+- 🐍 **Back-end**: Python  
+- 🗃️ **Bancos de Dados**: SQL  
 
 ---
 
