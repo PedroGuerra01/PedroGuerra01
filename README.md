@@ -1,6 +1,8 @@
 
 # Olá! Eu sou o Pedro Henrique Guerra ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
+
+## Curriculo
 [![Currículo](https://img.icons8.com/?size=100&id=45588&format=png&color=000000)](https://github.com/PedroGuerra01/Curriculo)
 
  ### 🚀 Sobre Mim  
