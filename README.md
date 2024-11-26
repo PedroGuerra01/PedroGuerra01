@@ -1,13 +1,6 @@
 
 # Olá! Eu sou o Pedro Henrique Guerra ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-
-
-  </div>
-      <p><a href="https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil"></a></p>
-
-<div align="center">
-
  ### 🚀 Sobre Mim  
 Sou **estudante de Sistemas de Informação** com paixão por **resolução de problemas** e **inovação tecnológica**. Tenho experiência em automação de processos, desenvolvimento de soluções para otimização de tarefas e busco constantemente aprender e crescer no mundo da tecnologia.
 
@@ -22,19 +15,19 @@ Sou **estudante de Sistemas de Informação** com paixão por **resolução de p
 
 ### 🛠️ Minhas Contribuições  
 🌟 **Automatização de Processos**  
-- Reduzi **100% do tempo de envio** de DCTF WEB e e-mails através de scripts automatizados.  
+- Reduzi **100% do tempo de envio** de DCTF WEB e e-mails através da automatização.  
 - **Facilitei o monitoramento** de certificados digitais e procurações com planilhas inteligentes.  
 
 📈 **Otimização Operacional**  
-- Colaborei no processo de faturamento e fechamento, reduzindo o tempo de envio de NFes de **5 dias para apenas 2 dias**, aumentando a satisfação do cliente.  
+- Colaborei no processo de faturamento e fechamento, reduzindo o tempo de envio de NFes, reduzindo o fechamento de **5 dias para apenas 2 dias** e **reduzindo as Nfes com tempo de envio de 1h para apenas 20min**, aumentando a satisfação do cliente.  
 
 📊 **Análise de Dados**  
-- Trabalhando em projetos focados na organização e visualização de dados para melhorar processos decisórios.
+- Trabalhando em projetos pessoais focados na minha melhoria e testando meus conhecimento.
 
 ---
 
 ### 🌐 Conecte-se Comigo  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-PedroGuerra-blue?logo=linkedin)](https://www.linkedin.com/in/pedroguerra01/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pedro-henrique-guerra-blue?logo=linkedin)](https://www.linkedin.com/in/pedro-henrique-guerra/)  
 [![Email](https://img.shields.io/badge/Email-Contato%20Rápido-red?logo=gmail)](mailto:seuemail@gmail.com)  
 
 ---
