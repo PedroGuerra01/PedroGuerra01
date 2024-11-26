@@ -5,13 +5,13 @@
 Sou **estudante de Sistemas de Informação** com paixão por **resolução de problemas** e **inovação tecnológica**. Tenho experiência em automação de processos, desenvolvimento de soluções para otimização de tarefas e busco constantemente aprender e crescer no mundo da tecnologia.
 
 💡 **Principais habilidades**:  
-- Automação de processos usando Python e Excel avançado  
+- Automação de processos usando Excel avançado  
 - Desenvolvimento de planilhas inteligentes para monitoramento e acompanhamento  
-- Experiência prática com bancos de dados e análise de informações  
+- Experiência prévia com bancos de dados e análise de informações  
 
 🎯 **Objetivo**: Conquistar meu lugar no mercado de tecnologia, com foco em **dados**, **inovação** e **impacto real**.
 
-### 🛠️ **Linguagens e Tecnologias**
+### 🛠️ **Linguagens e Tecnologias que ja tive contato**
 - 🌐 **Front-end**: HTML, CSS, JavaScript  
 - 🐍 **Back-end**: Python  
 - 🗃️ **Bancos de Dados**: SQL  
@@ -20,8 +20,8 @@ Sou **estudante de Sistemas de Informação** com paixão por **resolução de p
 
 ### 🛠️ Minhas Contribuições  
 🌟 **Automatização de Processos**  
-- Reduzi **100% do tempo de envio** de DCTF WEB e e-mails através da automatização.  
-- **Facilitei o monitoramento** de certificados digitais e procurações com planilhas inteligentes.  
+- Reduzi **100% do tempo de envio** de DCTF WEB e e-mails através da automatização.  (sistema contmatic)
+- **Facilitei o monitoramento** de certificados digitais e procurações com planilhas avançadas. (planilha excel)  
 
 📈 **Otimização Operacional**  
 - Colaborei no processo de faturamento e fechamento, reduzindo o tempo de envio de NFes, reduzindo o fechamento de **5 dias para apenas 2 dias** e **reduzindo as Nfes com tempo de envio de 1h para apenas 20min**, aumentando a satisfação do cliente.  
@@ -44,14 +44,16 @@ Sou **estudante de Sistemas de Informação** com paixão por **resolução de p
 ---
 
 ### 🚀 Projetos em Destaque  
-1. [**Automatização de Processos**]  
-   Scripts que revolucionaram o fluxo de envio de DCTF WEB.  
+1. **Automatização de Processos**  
+   Configurando o robo da contmatic que diminuio o tempo dos envio de DCTF WEB. (Reduzindo o erro)
+   Configurando o word que diminuio o tempo dos envio de Emails. (Reduzindo o erro)
 
-2. [**Gerenciamento de Certificados**]
-   Planilhas e scripts para monitorar procurações e certificados digitais.  
 
-3. [**Faturamento Otimizado**]  
-   Reduzi prazos em processos contábeis e aumentei eficiência.
+3. **Gerenciamento de Certificados**
+   Planilhas criado no excel para monitorar procurações e certificados digitais.  (Reduzindo o erro)
+
+4. **Faturamento Otimizado**  
+   Reduzi prazos em processos (emissão de NF) contábeis e aumentei eficiência. (Reduzindo o erro)
 
 ---
 
