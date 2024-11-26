@@ -30,13 +30,6 @@ Sou **estudante de Sistemas de Informação** com paixão por **resolução de p
 - Trabalhando em projetos pessoais focados na minha melhoria e testando meus conhecimento.
 
 ---
----
-
-### 📈 Minhas Estatísticas no GitHub  
-![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroGuerra01&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroGuerra01&layout=compact&theme=radical)
-
----
 
 ### 🚀 Projetos em Destaque  
 1. **Automatização de Processos**  
@@ -64,20 +57,6 @@ Sou **estudante de Sistemas de Informação** com paixão por **resolução de p
 ### 📈 Minhas Estatísticas no GitHub  
 ![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroGuerra01&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroGuerra01&layout=compact&theme=radical)
-
----
-
-### 🚀 Projetos em Destaque  
-1. **Automatização de Processos**  
-   Configurando o robo da contmatic que diminuio o tempo dos envio de DCTF WEB. (Reduzindo o erro)
-   Configurando o word que diminuio o tempo dos envio de Emails. (Reduzindo o erro)
-
-
-3. **Gerenciamento de Certificados**
-   Planilhas criado no excel para monitorar procurações e certificados digitais.  (Reduzindo o erro)
-
-4. **Faturamento Otimizado**  
-   Reduzi prazos em processos (emissão de NF) contábeis e aumentei eficiência. (Reduzindo o erro)
 
 ---
 
