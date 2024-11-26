@@ -8,32 +8,53 @@
 
 <div align="center">
 
- <div>
-   <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=PedroGuerra01&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=66cc00&icon_color=66cc00&text_color=c9d1d9&bg_color=0d1117"/>  
-<img height="200px" width="360px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroGuerra01&layout=compact&langs_count=7&hide_border=true&title_color=fff&icon_color=66cc00&text_color=fff&bg_color=0d1117"/>
- </div>
+ ### 🚀 Sobre Mim  
+Sou **estudante de Sistemas de Informação** com paixão por **resolução de problemas** e **inovação tecnológica**. Tenho experiência em automação de processos, desenvolvimento de soluções para otimização de tarefas e busco constantemente aprender e crescer no mundo da tecnologia.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div><br/>
+💡 **Principais habilidades**:  
+- Automação de processos usando Python e Excel avançado  
+- Desenvolvimento de planilhas inteligentes para monitoramento e acompanhamento  
+- Experiência prática com bancos de dados e análise de informações  
 
-### Redes
-<div>
-<a href="https://www.linkedin.com/in/pedro-henrique-guerra-19937a1a2/" target="_bank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"target="_bank"></a>
-</div>
+🎯 **Objetivo**: Conquistar meu lugar no mercado de tecnologia, com foco em **dados**, **inovação** e **impacto real**.
 
-###  Estudos
-📚     Cursando: Sistema de informação 2/8
+---
 
-📚     Formado no ensino Médio
+### 🛠️ Minhas Contribuições  
+🌟 **Automatização de Processos**  
+- Reduzi **100% do tempo de envio** de DCTF WEB e e-mails através de scripts automatizados.  
+- **Facilitei o monitoramento** de certificados digitais e procurações com planilhas inteligentes.  
 
-###  Área atual 
-👨‍💻     Auxiliar fiscal
+📈 **Otimização Operacional**  
+- Colaborei no processo de faturamento e fechamento, reduzindo o tempo de envio de NFes de **5 dias para apenas 2 dias**, aumentando a satisfação do cliente.  
 
+📊 **Análise de Dados**  
+- Trabalhando em projetos focados na organização e visualização de dados para melhorar processos decisórios.
 
-###  linguagens
-📚     Inglês - Básico
+---
 
-📚     Português - Fluente/nativo
+### 🌐 Conecte-se Comigo  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-PedroGuerra-blue?logo=linkedin)](https://www.linkedin.com/in/pedroguerra01/)  
+[![Email](https://img.shields.io/badge/Email-Contato%20Rápido-red?logo=gmail)](mailto:seuemail@gmail.com)  
 
-..... Sempre em busca de novos aprendizados e com muita dedicação .....
+---
+
+### 📈 Minhas Estatísticas no GitHub  
+![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroGuerra01&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroGuerra01&layout=compact&theme=radical)
+
+---
+
+### 🚀 Projetos em Destaque  
+1. [**Automatização de Processos**](https://github.com/PedroGuerra01/Automatizacao-De-Processos)  
+   Scripts que revolucionaram o fluxo de envio de DCTF WEB.  
+
+2. [**Gerenciamento de Certificados**](https://github.com/PedroGuerra01/Gerenciamento-Certificados)  
+   Planilhas e scripts para monitorar procurações e certificados digitais.  
+
+3. [**Faturamento Otimizado**](https://github.com/PedroGuerra01/Faturamento-Otimizado)  
+   Reduzi prazos em processos contábeis e aumentei eficiência.
+
+---
+
+> 🌟 “Sempre aprendendo, sempre inovando. Meu próximo desafio pode estar com você!”  
