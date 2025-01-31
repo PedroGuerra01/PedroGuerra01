@@ -6,7 +6,7 @@ Sou **estudante de Sistemas de Informação**, apaixonado por desenvolvimento e 
 
 **💡 Principais Habilidades**
 
-Linguagens Front-End: HTML, CSS, JavaScript e Python
+**Linguagens Front-End:** HTML, CSS, JavaScript e Python
 Frameworks: React
 Design Responsivo: Criação de interfaces otimizadas para diferentes dispositivos
 Banco de Dados: MySQL e MongoDB
