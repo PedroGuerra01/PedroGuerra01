@@ -2,19 +2,21 @@
 # Olá! Eu sou o Pedro Henrique Guerra ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
  ### 🚀 Sobre Mim  
-Sou **estudante de Sistemas de Informação** com paixão por **resolução de problemas** e **inovação tecnológica**. Tenho experiência em automação de processos, desenvolvimento de soluções para otimização de tarefas e busco constantemente aprender e crescer no mundo da tecnologia.
+Sou **estudante de Sistemas de Informação**, apaixonado por desenvolvimento e inovação tecnológica. Tenho experiência em automação de processos, criação de interfaces intuitivas e criação de site para lojas. Busco crescer no universo do front-end, utilizando tecnologias modernas para resolver problemas de forma criativa e eficiente.
 
-💡 **Principais habilidades**:  
-- Automação de processos usando Excel avançado  
-- Desenvolvimento de planilhas inteligentes para monitoramento e acompanhamento  
-- Experiência prévia com bancos de dados e análise de informações  
+**💡 Principais Habilidades**
 
-🎯 **Objetivo**: Conquistar meu lugar no mercado de tecnologia, com foco em **dados**, **inovação** e **impacto real**.
+Linguagens Front-End: HTML, CSS, JavaScript e Python
+Frameworks: React
+Design Responsivo: Criação de interfaces otimizadas para diferentes dispositivos
+Banco de Dados: MySQL e MongoDB
+Automação: Experiência com soluções em Excel avançado e scripts
+Outras Habilidades: Photoshop, Canva e Marketing digital 
 
-### 🛠️ **Linguagens e Tecnologias que ja tive contato**
-- 🌐 **Front-end**: HTML, CSS, JavaScript  
-- 🐍 **Back-end**: Python  
-- 🗃️ **Bancos de Dados**: SQL  
+🎯 Objetivo Profissional:
+Buscar uma oportunidade como Desenvolvedor Front-End para aplicar meus conhecimentos, crescer profissionalmente e contribuir para o desenvolvimento de projetos e da empresa.
+
+
 
 ---
 
